@@ -19,6 +19,7 @@ You can install these libraries using pip:
 
 ```bash
 pip install tensorflow keras pydot
+```
 
 ## Note
 This repository represents a partial upload of the project. The complete project includes the deployment of the trained model as a live web application. Stay tuned for updates on the full project release.
